@@ -8,3 +8,4 @@
 ![image](https://user-images.githubusercontent.com/37893743/40815207-6ad32a86-6562-11e8-9152-a1d77606d2be.png)
 
 2) Make the same histogram but divide the plot based on the month of the year into 12 subplots.
+![image](https://user-images.githubusercontent.com/37893743/40815251-c3d21b42-6562-11e8-90ca-7ae1135d850a.png)
